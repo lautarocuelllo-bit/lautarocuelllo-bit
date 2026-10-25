@@ -62,15 +62,71 @@ Construyo interfaces web y mobile rápidas, accesibles y cuidadas en el detalle.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### Proyectos destacados
+### Productos propios
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| **[Genesis Code Studio](https://genesiscodestudio.com/)** | Sitio del estudio: landing de una sola página, SEO y animaciones. | React · TypeScript · Vite · Tailwind |
-| **Genesis Stock** | SaaS de stock y punto de venta para comercios: ventas, inventario, cierre de caja y reportes. | React 19 · TypeScript · Tailwind v4 · Zustand · Radix UI |
-| **Pronto** | App de delivery para el Valle de Uco, con versión mobile y web desde el mismo código. | React Native · Expo Router · TypeScript · Zustand |
-| **MyGymProgress** | App para registrar entrenamientos y ver la evolución con gráficos. Publicada como APK. | React · Vite · Tailwind · Recharts · Capacitor · Supabase |
-| **[Prácticas Profesionalizantes](https://practicas-profecionalizantes.vercel.app)** | Sitio desplegado en Vercel. | HTML · CSS · JavaScript |
+Desarrollados junto a mi compañero Juan David. **Código privado:** podés probar las apps, pero no son de código abierto.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://stock.genesiscodestudio.com/"><img src="https://genesiscodestudio.com/proyectos/stock-720.webp" alt="Genesis Stock"/></a>
+<br/><b><a href="https://stock.genesiscodestudio.com/">Genesis Stock</a></b><br/><sub><b>En producción</b></sub>
+<p>Sistema de stock y punto de venta para comercios: ventas con lector de código de barras o cámara, caja, fiado, reportes y carga de facturas con IA.</p>
+<sub>React · TypeScript · Tailwind · Zustand · Radix UI</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://demopronto.genesiscodestudio.com/"><img src="https://genesiscodestudio.com/proyectos/pronto-720.webp" alt="Pronto"/></a>
+<br/><b><a href="https://demopronto.genesiscodestudio.com/">Pronto</a></b><br/><sub><b>En desarrollo · demo</b></sub>
+<p>App de delivery para el Valle de Uco, con paneles para cliente, local, repartidor y administración. Una sola base de código para web, Android e iOS.</p>
+<sub>React Native · Expo · TypeScript · Zustand</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://my-progress.genesiscodestudio.com/"><img src="https://genesiscodestudio.com/proyectos/gym-progress-720.webp" alt="My Gym Progress"/></a>
+<br/><b><a href="https://my-progress.genesiscodestudio.com/">My Gym Progress</a></b><br/><sub><b>Completado</b></sub>
+<p>Registro de entrenamientos con historial, gráficos de evolución, amigos y ranking. También como APK para Android.</p>
+<sub>React · TypeScript · Tailwind · Recharts · Capacitor</sub>
+</td>
+</tr>
+</table>
+
+### Proyectos para clientes
+
+Hechos con [Genesis Code Studio](https://genesiscodestudio.com/). El código es de cada cliente, así que acá muestro el resultado en producción.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://tiendablacktech.com/"><img src="https://genesiscodestudio.com/proyectos/blacktech-720.webp" alt="Black Tech"/></a>
+<br/><b><a href="https://tiendablacktech.com/">Black Tech</a></b>
+<p>E-commerce con dos rubros, checkout que arma el pedido en WhatsApp y panel de administración con stock, cupones y ventas en mostrador.</p>
+<sub>React · TypeScript · Vite · Supabase</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://santaburger.com.ar/"><img src="https://genesiscodestudio.com/proyectos/santaburger-720.webp" alt="Santa Burger"/></a>
+<br/><b><a href="https://santaburger.com.ar/">Santa Burger</a></b>
+<p>Vidriera digital para una hamburguesería: menú con imágenes y promociones, pensada para pedir desde el celular.</p>
+<sub>React · JavaScript · CSS3</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://unidadvigilanciaprivada.com/"><img src="https://genesiscodestudio.com/proyectos/unidad-vigilancia-privada-720.webp" alt="Unidad de Vigilancia Privada"/></a>
+<br/><b><a href="https://unidadvigilanciaprivada.com/">Unidad de Vigilancia Privada</a></b>
+<p>Sitio corporativo para una empresa de seguridad privada, con servicios y formulario de contacto.</p>
+<sub>React · JavaScript · CSS3</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://unidadchipiquera.genesiscodestudio.com/"><img src="https://genesiscodestudio.com/proyectos/chipiquera-720.webp" alt="Unidad Chipiquera"/></a>
+<br/><b><a href="https://unidadchipiquera.genesiscodestudio.com/">Unidad Chipiquera</a></b>
+<p>Sitio comunitario de prevención de emergencias: protocolos, mochila interactiva, mapa de zonas seguras y panel privado.</p>
+<sub>React · Vite · PocketBase · Google Maps</sub>
+</td>
+</tr>
+</table>
+
+### Demos
+
+<a href="https://perchero.netlify.app/">Stock y ventas para tienda de ropa</a> · <a href="https://stockmostrador.netlify.app/">Stock para almacenes</a> · <a href="https://tiendavirtualgenesis.netlify.app/">Tienda online con pedidos por WhatsApp</a> · <a href="https://genesisbargerturnos.netlify.app/">Turnos para barberías</a> · <a href="https://fintrackpanel.netlify.app/">Panel de finanzas personales</a> · <a href="https://landingprofecional.netlify.app/">Landing para profesionales</a> · <a href="https://genesisya.netlify.app/">App de delivery</a> · <a href="https://genesisprocrm.netlify.app/">CRM de ventas</a> · <a href="https://helpdesktickets.netlify.app/">Mesa de ayuda</a>
 
 ---
 
