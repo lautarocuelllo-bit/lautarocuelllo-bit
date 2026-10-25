@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lautarocuello.genesiscodestudio.com/"><img src="https://img.shields.io/badge/Mi_portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=c9a24b" alt="Mi portfolio"/></a>
   <a href="https://genesiscodestudio.com/"><img src="assets/genesis-code-studio.svg" alt="Genesis Code Studio"/></a>
   <a href="mailto:lautarocuelllo@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.instagram.com/lauty._.cuello/"><img src="https://img.shields.io/badge/Instagram-lauty.__.cuello-0f172a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram personal"/></a>
